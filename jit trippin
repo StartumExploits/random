@@ -4,8 +4,8 @@ NotifyLib.prompt('YukoWare - Esp', 'Loading..', 5)
 NotifyLib.prompt('YukoWare', 'Enjoy ;) ;)', 5)
 
 local esp_settings = { ---- table for esp settings 
-    textsize = 8,
-    colour = 255,255,255
+    textsize = 20,
+    colour = 242, 243, 243
 }
  
 local gui = Instance.new("BillboardGui")
