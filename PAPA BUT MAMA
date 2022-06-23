@@ -4,7 +4,7 @@ NotifyLib.prompt('YukoWare - Info ESP', 'Loading..', 5)
 NotifyLib.prompt('YukoWare', 'Enjoy ;) ;)', 5)
 
 local esp_settings = { ---- table for esp settings 
-    textsize = 20,
+    textsize = 12,
     colour = 242, 243, 243
 }
  
